@@ -238,5 +238,5 @@ Where n = number of routers in a full mesh.
 ---
 
 *Lab completed: March 2026*  
-*Author: b1nc0d3x*  
+*Author:Kyle T. Crenshaw
 *Certification target: CCNA 200-301 v1.1*
